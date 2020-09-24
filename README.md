@@ -10,3 +10,7 @@ I ran into multiple issue during the process so I decided to create this documen
 
 
 ## TUYA
+
+### Lights
+
+### Sensors
