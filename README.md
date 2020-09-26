@@ -9,6 +9,7 @@ I ran into multiple issue during the process so I decided to create this documen
 
 ## HOMEBRIDGE - HOW DID I SOLVE COMPATIBILITY PROBLEMS ?
 
+# MY SMART DEVICES
 
 ## YEELIGHT
 
