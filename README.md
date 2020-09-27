@@ -21,3 +21,4 @@ There are 3 main ecosystems when it comes to smart home: Apple's Homekit, Google
 ### Lights
 
 ### Sensors
+
