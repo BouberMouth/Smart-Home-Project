@@ -1,7 +1,7 @@
 # Smart-Home-Project
 
-I recently decided to turn my "dumb" home into a smart one. My main goal was to be able to control everything from the Apple Home app. Since everyone in my house has an iPhone, it seemed to be the best option (plus I really like the Home app minimalist UI).
-I ran into multiple issue during the process so I decided to create this documentation to remind myself how I got over each issue, as well as help others who might encounter the same issues.
+I recently decided to turn my "dumb" home into a smart one. I am doing it step by step and by testing lots of different brands or products to find the ones that best fit my needs.
+I ran into multiple issues during the process so I decided to create this documentation to remind myself how I got over them, as well as help others who might encounter the same issues.
 
 # CHOOSING AN ECOSYSTEM
 
@@ -16,6 +16,7 @@ There are 3 main ecosystems when it comes to smart home: Apple's Homekit, Google
 
 ## Homebridge - How did I solve compatibility issues ?
 
+One of Apple's Homekit biggest con is that the number of compatible products is not as high as other ecosystems, and they are often very expensive (my YeeLight bulb cost the price of my 4 LSC Smart Connect bulbs).
 
 # MY SMART DEVICES
 
