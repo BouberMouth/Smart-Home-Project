@@ -14,9 +14,10 @@ There are 3 main ecosystems when it comes to smart home: Apple's Homekit, Google
   - We have a Google Nest and most Homekit compatible products also work with Google Home, whereas the opposite isn't necessarily true.
   - I tend to trust Apple over Google or Amazon when it comes to privacy.
 
-## Homebridge - How did I solve compatibility issues ?
+## HOOBS - How did I solve compatibility issues ?
 
 One of Apple's Homekit biggest con is that the number of compatible products is not as high as other ecosystems, and they are often very expensive (my YeeLight bulb cost the price of my 4 LSC Smart Connect bulbs).
+Luckily, there exist ways to fix compatibility issues allowing us to turn (almost) any smart device into an HomeKit compatible device: I chose HOOBS, which stands for Homebridge out Of the Box System.
 
 # MY SMART DEVICES
 
