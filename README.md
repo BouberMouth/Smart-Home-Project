@@ -21,6 +21,7 @@ Luckily, there exist ways to fix compatibility issues allowing us to turn (almos
 
 # MY SMART DEVICES
 
+
 ## YeeLight
 
 
