@@ -1,4 +1,4 @@
-# SMART HOME PROJECT
+<h1>SMART HOME PROJECT</h1>
 
 I recently decided to turn my "dumb" home into a smart one. I am doing it step by step and by testing lots of different brands or products to find the ones that best fit my needs.
 I ran into multiple issues during the process so I decided to create this documentation to remind myself how I got over them, as well as help others who might encounter the same issues.
