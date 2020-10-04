@@ -24,13 +24,20 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 
 ## YeeLight
 
-I have a [Yeelight LED Smart Bulb 1S](https://www.amazon.fr/Yeelight-millions-couleurs-Compatible-Assistant/dp/B0832XR68B/ref=sxts_sxwds-bia-wc-p13n1_0?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=QYEUKXY2080L&cv_ct_cx=yeelight&dchild=1&keywords=yeelight&pd_rd_i=B0832XR68B&pd_rd_r=53e9570d-768b-4929-b9b9-e4069e0aca4a&pd_rd_w=SuX9Y&pd_rd_wg=QMvu7&pf_rd_p=98f58b7e-b9e8-4e4c-bba9-709ba4f88207&pf_rd_r=6H4SR8K9E0TCFPJR0F8V&psc=1&qid=1601589754&sprefix=yeelight%2Caps%2C580&sr=1-1-ac3a866f-801f-44fe-9e94-bb9a271cf6b8) which costs under 30€. It is HomeKit compatible and does not require a hub. It has a very wide range of colors and intensities. It is a bit big (20+ centimeters) but has a fine design. 
+[Yeelight LED Smart Bulb 1S](https://www.amazon.fr/Yeelight-millions-couleurs-Compatible-Assistant/dp/B0832XR68B/ref=sxts_sxwds-bia-wc-p13n1_0) 
+I have own bulb, which costs under 30€. It is HomeKit compatible and does not require a hub. It has a very wide range of colors and intensities. It is a bit big (20+ centimeters) but has a fine design. This is definitely my favorite bulb so far.
 
 ## Tuya
 
 ### Lights
+[LSC Smart Connect RGBW Spot E14](https://www.action.com/fr-fr/p/spot-multicolore-connecte-lsc-smart-connect-2/)
+[LSC Smart Connect Smart LED E27](https://www.action.com/fr-fr/p/lampe-led-intelligente-lsc-smart-connect3/)
 
 ### Smart plugs
+[LSC Smart Connect Smart Plug](https://www.action.com/fr-fr/p/prise-intelligente-lsc-smart-connect/)
+
 
 ### Sensors
+[LSC Smart Connect Smart Movement Sensor](https://www.action.com/fr-fr/p/dummy-3000370/)
+
 
