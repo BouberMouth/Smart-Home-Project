@@ -24,6 +24,7 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 
 ## Light Bulbs
 
+<img src="img/yeelight-1S.jpg" width=250>
 ### [Yeelight Smart LED Bulb 1S](https://www.amazon.fr/Yeelight-millions-couleurs-Compatible-Assistant/dp/B0832XR68B/ref=sxts_sxwds-bia-wc-p13n1_0) 
 I only own one bulb, which costs under 30€. It is HomeKit compatible and does not require a hub. It has a very wide range of colors and intensities. It is a bit big (20+ centimeters) but has a fine design. This is definitely my favorite bulb so far.
 
