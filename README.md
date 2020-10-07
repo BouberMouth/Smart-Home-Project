@@ -30,20 +30,18 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 I only own one bulb, which costs under 30€. It is HomeKit compatible and does not require a hub. It has a very wide range of colors and intensities. It is a bit big (20+ centimeters) but has a fine design. This is definitely my favorite bulb so far.
 
 
-<img src="img/lsc-smart-led-GU10-box.jpeg" width=250>
-<img src="img/lsc-smart-led-GU10.jpeg" width=250>
+<img src="img/lsc-smart-led-GU10-box.jpeg" width=250><img src="img/lsc-smart-led-GU10.jpeg" width=250>
 
 ### [LSC Smart Connect LED GU10 5W RGB-CCT 380Lm 1800-2700K](https://www.action.com/fr-fr/p/spot-multicolore-connecte-lsc-smart-connect-2/)
 
-<img src="img/lsc-smart-led-E27.jpeg" width=250>
-<img src="img/lsc-smart-led-E27-box.jpeg" width=250>
+<img src="img/lsc-smart-led-E27-box.jpeg" width=250><img src="img/lsc-smart-led-E27.jpeg" width=250>
 
 ### [LSC Smart Connect LED E27 10W White 806Lm ](https://www.action.com/fr-fr/p/lampe-led-intelligente-lsc-smart-connect3/)
 
 ## Smart plugs
 
-<img src="img/lsc-smart-plug-box" width=250>
-<img src="img/lsc-smart-plug" width=250>
+<img src="img/lsc-smart-plug-box.jpeg" width=250><img src="img/lsc-smart-plug.jpeg" width=250>
+
 
 ### [LSC Smart Connect Smart Plug](https://www.action.com/fr-fr/p/prise-intelligente-lsc-smart-connect/)
 
