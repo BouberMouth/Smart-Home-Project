@@ -38,6 +38,6 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 ## Sensors
 | Look | Packaging | Description |
 |-|-|-|
-| <img src="img/lsc-smart-motion-sensor.jpeg" width=250> | <img src="img/lsc-smart-motion-sensor-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Movement Sensor](https://www.action.com/fr-fr/p/dummy-3000370/)<br/>add description</p<
+| <img src="img/lsc-smart-motion-sensor.jpeg" width=250> | <img src="img/lsc-smart-motion-sensor-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Movement Sensor](https://www.action.com/fr-fr/p/dummy-3000370/)<br/>add description</p>
 
 
