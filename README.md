@@ -30,14 +30,14 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 | <img src="img/lsc-smart-led-E27.jpeg" width=250> | <img src="img/lsc-smart-led-E27-box.jpeg" width=250> | <p align="left">[LSC Smart Connect LED E27 10W White 806Lm ](https://www.action.com/fr-fr/p/lampe-led-intelligente-lsc-smart-connect3/)<br/>add description</p>|
 
 ## Smart plugs
-
-<img src="img/lsc-smart-plug-box.jpeg" width=250><img src="img/lsc-smart-plug.jpeg" width=250>
-
-
-### [LSC Smart Connect Smart Plug](https://www.action.com/fr-fr/p/prise-intelligente-lsc-smart-connect/)
+| Look | Packaging | Description |
+|-|-|-|
+| <img src="img/lsc-smart-plug.jpeg" width=250> | <img src="img/lsc-smart-plug-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Plug](https://www.action.com/fr-fr/p/prise-intelligente-lsc-smart-connect/)<br/>add description</p>
 
 
 ## Sensors
-### [LSC Smart Connect Smart Movement Sensor](https://www.action.com/fr-fr/p/dummy-3000370/)
+| Look | Packaging | Description |
+|-|-|-|
+| <img src="img/lsc-smart-motion-sensor.jpeg" width=250> | <img src="img/lsc-smart-motion-sensor-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Movement Sensor](https://www.action.com/fr-fr/p/dummy-3000370/)<br/>add description</p<
 
 
