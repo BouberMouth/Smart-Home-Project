@@ -33,7 +33,7 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 ## Smart plugs
 | Look | Packaging | Description |
 |-|-|-|
-| <img src="img/lsc-smart-plug.jpeg" width=250> | <img src="img/lsc-smart-plug-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Plug](https://www.action.com/fr-fr/p/prise-intelligente-lsc-smart-connect/)<br/>add description</p>
+| <img src="img/lsc-smart-plug.jpeg" width=250> | <img src="img/lsc-smart-plug-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Plug](https://www.action.com/fr-fr/p/prise-intelligente-lsc-smart-connect/)<br/>This is the first smart plug that I bought (I actually bought 3 of them) and although it is very simple and easy to use, it does an amazing job at making any appliance smart. I plugged one to my washing machine and another one to my dishwasher: now I can program them to start just before I come back home, hence avoiding having wet clothes sitting all day in my washing machine ! As other LSC products, it is not directly compatible with Homekit, but the Homebridge plug-in works perfectly. It has a button to quickly switch it on and off without bothering Siri.</p>
 
 
 ## Sensors
