@@ -17,7 +17,7 @@ There are 3 main ecosystems when it comes to smart home: Apple's HomeKit, Google
 ## HOOBS - How did I solve compatibility issues ?
 
 One of HomeKit's biggest con is that the range of compatible products is not as wide as other ecosystems', and they are often very expensive (my YeeLight bulb cost the price of my 4 LSC Smart Connect bulbs).
-Luckily, there are ways to fix compatibility issues, allowing us to turn (almost) any smart device into an HomeKit compatible device: I chose HOOBS, which stands for Homebridge out Of the Box System.
+Luckily, there are ways to fix compatibility issues, allowing us to turn (almost) any smart device into an HomeKit compatible device: I chose HOOBS, which stands for Homebridge Out Of the Box System.
 
 
 # MY SMART DEVICES
