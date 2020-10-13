@@ -39,7 +39,7 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 ## Sensors
 | Look | Packaging | Description |
 |-|-|-|
-| <img src="img/lsc-smart-motion-sensor.jpeg" width=250> | <img src="img/lsc-smart-motion-sensor-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Movement Sensor](https://www.action.com/fr-fr/p/dummy-3000370/)<br/>my least favorite purchase so far. I wanted to couple it with my garage light but it doesn't work as I want it to. First, it is not compatible with HomeKit even using the Tuya Homebridge plug-in. Secondly, it stops detecting motion for a while after it detects one (maybe 30 seconds). Last, it is very slow, and I sometime have to wait 15 seconds for my light to turn on !!!</p>
+| <img src="img/lsc-smart-motion-sensor.jpeg" width=250> | <img src="img/lsc-smart-motion-sensor-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Movement Sensor](https://www.action.com/fr-fr/p/dummy-3000370/)<br/>My least favorite purchase so far. I wanted to couple it with my garage light but it doesn't work as I want it to. First, it is not compatible with HomeKit even using the Tuya Homebridge plug-in. Secondly, it stops detecting motion for a while after it detects one (maybe 30 seconds). Last, it is very slow, and I sometime have to wait 15 seconds for my light to turn on !!!</p>
 
 # Switches
 | Look | Packaging | Description |
