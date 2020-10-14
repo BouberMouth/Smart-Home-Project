@@ -26,25 +26,25 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 | Look | Packaging | Description |
 |-|-|-|
 | <img src="img/yeelight-1S.jpg" width=250> | <img src="img/yeelight-1S-box.jpg" width=250> | <p align="left">[Yeelight Smart LED Bulb 1S](https://www.amazon.fr/Yeelight-millions-couleurs-Compatible-Assistant/dp/B0832XR68B/ref=sxts_sxwds-bia-wc-p13n1_0)<br/>I only own one bulb, which costs under 30€. It is HomeKit compatible and does not require a hub. It has a very wide range of colors and intensities. It is a bit big (20+ centimeters) but has a fine design. This is definitely my favorite bulb so far.</p>|
-| <img src="img/lsc-smart-led-GU10.jpeg" width=250> | <img src="img/lsc-smart-led-GU10-box.jpeg" width=250> | <p align="left">[LSC Smart Connect LED GU10 5W RGB-CCT 380Lm 1800-2700K](https://www.action.com/fr-fr/p/spot-multicolore-connecte-lsc-smart-connect-2/)<br/>add description</p>|
-| <img src="img/lsc-smart-led-E27.jpeg" width=250> | <img src="img/lsc-smart-led-E27-box.jpeg" width=250> | <p align="left">[LSC Smart Connect LED E27 10W White 806Lm ](https://www.action.com/fr-fr/p/lampe-led-intelligente-lsc-smart-connect3/)<br/>add description</p>|
-| <img src="img/lsc-smart-led-E14.jpeg" width=250> | <img src="img/lsc-smart-led-E14-box.jpeg" width=250> | <p align="left">[LSC Smart Connect LED E14 5W RGB-CCT 400Lm ](https://www.action.com/fr-fr/p/lampe-led-intelligente-lsc-smart-connect3/)<br/>add description</p>|
+| <img src="img/lsc-smart-led-GU10.jpeg" width=250> | <img src="img/lsc-smart-led-GU10-box.jpeg" width=250> | <p align="justify">[LSC Smart Connect LED GU10 5W RGB-CCT 380Lm 1800-2700K](https://www.action.com/fr-fr/p/spot-multicolore-connecte-lsc-smart-connect-2/)<br/>add description</p>|
+| <img src="img/lsc-smart-led-E27.jpeg" width=250> | <img src="img/lsc-smart-led-E27-box.jpeg" width=250> | <p align="justify">[LSC Smart Connect LED E27 10W White 806Lm ](https://www.action.com/fr-fr/p/lampe-led-intelligente-lsc-smart-connect3/)<br/>add description</p>|
+| <img src="img/lsc-smart-led-E14.jpeg" width=250> | <img src="img/lsc-smart-led-E14-box.jpeg" width=250> | <p align="justify">[LSC Smart Connect LED E14 5W RGB-CCT 400Lm ](https://www.action.com/fr-fr/p/lampe-led-intelligente-lsc-smart-connect3/)<br/>add description</p>|
 
 ## Smart plugs
 | Look | Packaging | Description |
 |-|-|-|
-| <img src="img/lsc-smart-plug.jpeg" width=250> | <img src="img/lsc-smart-plug-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Plug](https://www.action.com/fr-fr/p/prise-intelligente-lsc-smart-connect/)<br/>This is the first smart plug that I bought (I actually bought 3 of them) and although it is very simple and easy to use, it does an amazing job at making any appliance smart.<br/>I plugged one to my washing machine and another one to my dishwasher: now I can program them to start just before I come back home, hence avoiding having wet clothes sitting all day in my washing machine ! As other LSC products, it is not directly compatible with Homekit, but the Homebridge plug-in works perfectly. It has a button to quickly switch it on and off without bothering Siri.</p>
+| <img src="img/lsc-smart-plug.jpeg" width=250> | <img src="img/lsc-smart-plug-box.jpeg" width=250> | <p align="justify">[LSC Smart Connect Smart Plug](https://www.action.com/fr-fr/p/prise-intelligente-lsc-smart-connect/)<br/>This is the first smart plug that I bought (I actually bought 3 of them) and although it is very simple and easy to use, it does an amazing job at making any appliance smart.<br/>I plugged one to my washing machine and another one to my dishwasher: now I can program them to start just before I come back home, hence avoiding having wet clothes sitting all day in my washing machine ! As other LSC products, it is not directly compatible with Homekit, but the Homebridge plug-in works perfectly. It has a button to quickly switch it on and off without bothering Siri.</p>
 
 
 ## Sensors
 | Look | Packaging | Description |
 |-|-|-|
-| <img src="img/lsc-smart-motion-sensor.jpeg" width=250> | <img src="img/lsc-smart-motion-sensor-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Movement Sensor](https://www.action.com/fr-fr/p/dummy-3000370/)<br/>My least favorite purchase so far. I wanted to couple it with my garage light but it doesn't work as I want it to. First, it is not compatible with HomeKit even using the Tuya Homebridge plug-in. Secondly, it stops detecting motion for a while after it detects one (maybe 30 seconds). Last, it is very slow, and I sometime have to wait 15 seconds for my light to turn on !!!</p>
+| <img src="img/lsc-smart-motion-sensor.jpeg" width=250> | <img src="img/lsc-smart-motion-sensor-box.jpeg" width=250> | <p align="justify">[LSC Smart Connect Smart Movement Sensor](https://www.action.com/fr-fr/p/dummy-3000370/)<br/>My least favorite purchase so far. I wanted to couple it with my garage light but it doesn't work as I want it to. First, it is not compatible with HomeKit even using the Tuya Homebridge plug-in. Secondly, it stops detecting motion for a while after it detects one (maybe 30 seconds). Last, it is very slow, and I sometime have to wait 15 seconds for my light to turn on !!!</p>
 
 # Switches
 | Look | Packaging | Description |
 |-|-|-|
-| <img src="img/lsc-smart-remote.jpeg" width=250> | <img src="img/lsc-smart-remote-box.jpeg" width=250> | <p align="left">[LSC Smart Connect Smart Remote](https://www.action.com/fr-fr/p/telecommande-lsc-smart-connect/)<br/>This is more a remote controller than a switch because it doesn't come with wall support. It communicate directly with the light without using a hub or Homekit so it is very fast, but that makes it only compatible with LSC products.</p>
+| <img src="img/lsc-smart-remote.jpeg" width=250> | <img src="img/lsc-smart-remote-box.jpeg" width=250> | <p align="justify">[LSC Smart Connect Smart Remote](https://www.action.com/fr-fr/p/telecommande-lsc-smart-connect/)<br/>This is more a remote controller than a switch because it doesn't come with wall support. It communicate directly with the light without using a hub or Homekit so it is very fast, but that makes it only compatible with LSC products.</p>
 
 
 
