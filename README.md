@@ -51,3 +51,6 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 
 Below I only list the brands of which I own at least a product.
 
+## Yeelight
+
+## LSC Smart Connect
