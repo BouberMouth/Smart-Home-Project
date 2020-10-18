@@ -47,4 +47,7 @@ Luckily, there are ways to fix compatibility issues, allowing us to turn (almost
 | <img src="img/lsc-smart-remote.jpeg" width=250> | <img src="img/lsc-smart-remote-box.jpeg" width=250> | <p align="justify">[LSC Smart Connect Smart Remote](https://www.action.com/fr-fr/p/telecommande-lsc-smart-connect/)<br/>This is more a remote controller than a switch because it doesn't come with wall support. It communicate directly with the light without using a hub or Homekit so it is very fast, but that makes it only compatible with LSC products.</p>
 
 
+# BRANDS
+
+Below I only list the brands of which I own at least a product.
 
