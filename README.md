@@ -53,7 +53,7 @@ Below I only list the brands of which I own at least a product.
 
 ## [Yeelight](https://www.yeelight.com/)
 
-Yeelight is Xiaomi's smart lightning brand, they make very good quality products for reasonable prices.
+Yeelight is Xiaomi's smart lightning brand, they make very good quality products for reasonable prices. They focus on lightning products such as bulbs or LED strips.
 
 ## [LSC Smart Connect](https://www.action.com/fr-fr/brands/lsc-smart-connect/)
 
