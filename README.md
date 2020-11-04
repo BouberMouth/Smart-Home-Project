@@ -59,3 +59,8 @@ Yeelight is Xiaomi's smart lightning brand, they make very good quality products
 
 LSC Smart Connect products are sold at Action which is a discount-store chain located in a few European countries. They make medium to low quality products but very cheap too, so they are a good option to start a smart home on a budget.
 LSC Smart Connect's products use Tuya services and are not compatible with Homekit. Hopefully, there are many Homebridge plug-ins which can do this job : I use "Tuya Lan2". I followed the instructions of [this blog post](http://www.experience2geek.com/tuto-lsc-smart-connect-avec-homekit/), which is written in French but comes with a very visual video. To bridge these lights to Homekit, we must create accounts on the [TuyaSmart app](https://apps.apple.com/fr/app/tuyasmart/id1034649547) and on the [Tuya Smart Developer Center](https://iot.tuya.com/).
+
+# BRANDS
+
+## Avoid switch being turned off
+Since my switches are not smart yet, I keep trying to turn on my lights with them, which I should not.
