@@ -63,4 +63,4 @@ LSC Smart Connect's products use Tuya services and are not compatible with Homek
 # BRANDS
 
 ## Avoid switch being turned off
-Since my switches are not smart yet, I keep trying to turn on my lights with them, which I should not.
+Although my switches are not smart yet, I keep trying to turn my lights on using them, and end up disconnecting the lights. Most lights turn on when they are connected after being disconnected, and I found a tips in [Sébastien Goffin's video](https://www.youtube.com/watch?v=-o8XnqRYhOs) which takes advantage of this behavior. He sugger cutting a small rectangle from an expired credit card and fold it to mave a "V". This shape acts as a spring when put under the switch so when you push your switch, it turns off the light and immediately turns it back on.
