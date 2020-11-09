@@ -60,7 +60,7 @@ Yeelight is Xiaomi's smart lightning brand, they make very good quality products
 LSC Smart Connect products are sold at Action which is a discount-store chain located in a few European countries. They make medium to low quality products but very cheap too, so they are a good option to start a smart home on a budget.
 LSC Smart Connect's products use Tuya services and are not compatible with Homekit. Hopefully, there are many Homebridge plug-ins which can do this job : I use "Tuya Lan2". I followed the instructions of [this blog post](http://www.experience2geek.com/tuto-lsc-smart-connect-avec-homekit/), which is written in French but comes with a very visual video. To bridge these lights to Homekit, we must create accounts on the [TuyaSmart app](https://apps.apple.com/fr/app/tuyasmart/id1034649547) and on the [Tuya Smart Developer Center](https://iot.tuya.com/).
 
-# BRANDS
+# TIPS
 
-## Avoid switch being turned off
-Although my switches are not smart yet, I keep trying to turn my lights on using them, and end up disconnecting the lights. Most lights turn on when they are connected after being disconnected, and I found a tips in [Sébastien Goffin's video](https://www.youtube.com/watch?v=-o8XnqRYhOs) which takes advantage of this behavior. He sugger cutting a small rectangle from an expired credit card and fold it to mave a "V". This shape acts as a spring when put under the switch so when you push your switch, it turns off the light and immediately turns it back on.
+## Disable "turned off" status on non-smart switches
+Although my switches are not smart yet, I keep trying to turn my lights on using them, and end up disconnecting the lights. Most lights turn on when they are connected after being disconnected, and I found a tips in [Sébastien Goffin's video](https://www.youtube.com/watch?v=-o8XnqRYhOs) which takes advantage of this behavior. He suggests cutting a small rectangle from an expired credit card and fold it to mave a "V". This shape acts as a spring when put under the switch so when you push your switch, it turns off the light and immediately turns it back on.
