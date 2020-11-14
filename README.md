@@ -64,3 +64,6 @@ LSC Smart Connect's products use Tuya services and are not compatible with Homek
 
 ## Disable "turned off" status on non-smart switches
 Although my switches are not smart yet, I keep trying to turn my lights on using them, and end up disconnecting the lights. Most lights turn on when they are connected after being disconnected, and I found a tips in [Sébastien Goffin's video](https://www.youtube.com/watch?v=-o8XnqRYhOs) which takes advantage of this behavior. He suggests cutting a small rectangle from an expired credit card and fold it to mave a "V". This shape acts as a spring when put under the switch so when you push your switch, it turns off the light and immediately turns it back on.
+
+## Use dummy switches
+I use a HomeBridge plugin called "" to make dummy switches. They can be used in many way but I mainly use them to get the status of a non-smart thing. For exemple, I have one corresponding to our mailbox. It is quite far from our house so we often pick up the mail when we drive back home. The problem was several people would stop to pick the mail, even if the first one already picked it.
