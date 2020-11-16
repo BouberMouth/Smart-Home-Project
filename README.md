@@ -68,4 +68,4 @@ Although my switches are not smart yet, I keep trying to turn my lights on using
 ## Use dummy switches
 I use a HomeBridge plugin called "" to make dummy switches. They can be used in many way but I mainly use them to get the status of a non-smart thing. For exemple, I have one corresponding to our mailbox. It is quite far from our house so we often pick up the mail when we drive back home. The problem was several people would stop to pick the mail, even if the first one already picked it. The solution was creating a dummy switch which is on while the mail has been picked up and off while it has not, using two shortcuts: "Hey Siri, has someone picked the mail today ?" and "Hey Siri, I picked up the mail" and one automation to reset it to off everyday at midnight.
 
-<div float="left"><img src="img/mailbox-default.jpeg" width=100><img src="img/mailbox-picked.jpeg" width=100></div>
+<div float="left"><img src="img/mailbox-default.jpeg" height=100><img src="img/mailbox-picked.jpeg" height=100></div>
