@@ -74,3 +74,4 @@ I use a HomeBridge plugin called "Dummy" to create dummy switches or virtual swi
 - A better concentrator: an HomePod mini or an Apple TV
 - Some sensors: temperature, humidity, doors, water.
 - A set of outdoor camera
+- A robot vacuum
