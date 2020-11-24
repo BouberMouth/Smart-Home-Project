@@ -8,7 +8,7 @@ I ran into multiple issues during the process so I decided to create this docume
 ## Which one did I choose ?
 
 There are 3 main ecosystems when it comes to smart home: Apple's HomeKit, Google Home and Amazon's Alexa. They each have their pros and cons, and people with different tastes or means will have different preferences. I chose Apple's solution for many reasons:
-  - Everyone in my house has at least an iPhone, we also have MacBooks, iPads and I have an Apple Watch, so we are all comfortable with Apple's ecosystem.
+  - Everyone in my house has at least an iPhone, we also have MacBooks, iPads and I have an Apple Watch, so we are all comfortable with the Apple ecosystem.
   - I find the Home app minimalist UI very pleasing and easy to use.
   - I am into iOS programming so if I ever start a smart home project, it is likely to be embedded in Apple's ecosystem.
   - We have a Google Nest and most HomeKit compatible products also work with Google Home, whereas the opposite isn't necessarily true.
