@@ -75,6 +75,6 @@ I use a HomeBridge plugin called "Dummy" to create dummy switches or virtual swi
 - Some sensors: temperature, humidity, doors, water.
   - Aqara door sensor
   - Aqara temperature and humidity sensor
-  - Aqaba hub
+  - Aqara hub
 - A set of outdoor camera
 - A robot vacuum
