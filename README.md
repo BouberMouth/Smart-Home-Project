@@ -73,5 +73,8 @@ I use a HomeBridge plugin called "Dummy" to create dummy switches or virtual swi
 # WISH LIST
 - A better concentrator: an HomePod mini or an Apple TV
 - Some sensors: temperature, humidity, doors, water.
+  - Aqara door sensor
+  - Aqara temperature and humidity sensor
+  - Aqaba hub
 - A set of outdoor camera
 - A robot vacuum
